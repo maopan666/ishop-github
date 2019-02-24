@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ishop_basic_parent/ishop_basic_parent.iml" filepath="$PROJECT_DIR$/ishop_basic_parent/ishop_basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ishop_basic_parent/ishop_basic_util/ishop_basic_util.iml" filepath="$PROJECT_DIR$/ishop_basic_parent/ishop_basic_util/ishop_basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ishop_config_server/ishop_config_server.iml" filepath="$PROJECT_DIR$/ishop_config_server/ishop_config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ishop_eureka_server/ishop_eureka_server.iml" filepath="$PROJECT_DIR$/ishop_eureka_server/ishop_eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ishop_parent.iml" filepath="$PROJECT_DIR$/ishop_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ishop_plat_parent/ishop_plat_interface/ishop_plat_interface.iml" filepath="$PROJECT_DIR$/ishop_plat_parent/ishop_plat_interface/ishop_plat_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ishop_plat_parent/ishop_plat_parent.iml" filepath="$PROJECT_DIR$/ishop_plat_parent/ishop_plat_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ishop_plat_parent/ishop_plat_service/ishop_plat_service.iml" filepath="$PROJECT_DIR$/ishop_plat_parent/ishop_plat_service/ishop_plat_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ishop_zuul_server/ishop_zuul_server.iml" filepath="$PROJECT_DIR$/ishop_zuul_server/ishop_zuul_server.iml" />
+    </modules>
+  </component>
+</project>
