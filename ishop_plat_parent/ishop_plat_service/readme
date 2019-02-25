@@ -1,2 +1,3 @@
 平台服务提供者
   模块提供服务,依赖于interface interface依赖base_parent
+  客户端的配置文件从服务端去拿
